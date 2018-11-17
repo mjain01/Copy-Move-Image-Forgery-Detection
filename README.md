@@ -1,6 +1,8 @@
 # Copy-Move-Image-Forgery-Detection
-pillow==5.3.0
-scikit-image==0.14.1
-scipy==1.1.0
-matplotlib==3.0.2
-opencv-contrib-python==3.4.0.12
+There are some test files in the input folder.
+You can add your own images in the input folder.
+Output will be stored in output folder. 
+It will show all the inteermediate step results in output folder.
+
+Run:
+Run BnW.py file
