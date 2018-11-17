@@ -1,1 +1,6 @@
 # Copy-Move-Image-Forgery-Detection
+pillow==5.3.0
+scikit-image==0.14.1
+scipy==1.1.0
+matplotlib==3.0.2
+opencv-contrib-python==3.4.0.12
