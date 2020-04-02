@@ -350,7 +350,7 @@ def main(file_name):
     global LOGS
     global COLOR_IMAGE
     DEBUG=debug(file_name[1])
-    np.set_printoptions(threshold=np.nan)
+    #np.set_printoptions(threshold=np.nan)
     
     image=input(file_name[0])
     print(file_name[1]+"-"+"start_dywt")
